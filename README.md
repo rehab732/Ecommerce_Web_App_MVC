@@ -7,12 +7,9 @@
   <li>Cinema</li>
   <li>Movies</li>
   <ul>
-      <li>Comedy</li>
+  <li>Comedy</li>
   <li>Action</li>
   <li>Drama</li>
-      <li>Documentry</li>
-
-
-    <ul>
-  
-  </ol>
+  <li>Documentry</li>
+  <ul>
+</ol>
