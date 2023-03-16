@@ -1,0 +1,84 @@
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\appsettings.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Ecommerce Application.staticwebassets.runtime.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Ecommerce Application.exe
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Ecommerce Application.deps.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Ecommerce Application.runtimeconfig.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Ecommerce Application.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Ecommerce Application.pdb
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Humanizer.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.csproj.AssemblyReference.cache
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.AssemblyInfoInputs.cache
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.AssemblyInfo.cs
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.csproj.CoreCompileInputs.cache
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.RazorAssemblyInfo.cache
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.RazorAssemblyInfo.cs
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets\msbuild.Ecommerce Application.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets\msbuild.build.Ecommerce Application.props
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce Application.props
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ecommerce Application.props
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\scopedcss\bundle\Ecommerce Application.styles.css
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\scopedcss\projectbundle\Ecommerce Application.bundle.scp.css
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.csproj.CopyComplete
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\refint\Ecommerce Application.dll
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.pdb
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\Ecommerce Application.genruntimeconfig.cache
+E:\ITI\ITI Projects\Ecommerce_Web_App_MVC\Ecommerce Application\Ecommerce Application\obj\Debug\net7.0\ref\Ecommerce Application.dll
